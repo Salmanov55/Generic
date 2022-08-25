@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\bin\Debug\netcoreapp3.1\Generictypes.exe
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\bin\Debug\netcoreapp3.1\Generictypes.deps.json
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\bin\Debug\netcoreapp3.1\Generictypes.runtimeconfig.json
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\bin\Debug\netcoreapp3.1\Generictypes.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\bin\Debug\netcoreapp3.1\Generictypes.dll
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\bin\Debug\netcoreapp3.1\Generictypes.pdb
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\obj\Debug\netcoreapp3.1\Generictypes.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\obj\Debug\netcoreapp3.1\Generictypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\obj\Debug\netcoreapp3.1\Generictypes.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\obj\Debug\netcoreapp3.1\Generictypes.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\obj\Debug\netcoreapp3.1\Generictypes.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\obj\Debug\netcoreapp3.1\Generictypes.dll
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\obj\Debug\netcoreapp3.1\Generictypes.pdb
+C:\Users\Aydan\Desktop\Generictypes\Generictypes\obj\Debug\netcoreapp3.1\Generictypes.genruntimeconfig.cache
